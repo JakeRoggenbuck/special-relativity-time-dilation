@@ -1,4 +1,5 @@
 # special-relativity-time-dilation
+Calculate the time dilation by velocity as described by special relativity using Rust! :crab:
 
 ```rs
 fn time_dilation_by_velocity(t: f64, v: f64) -> f64 {
