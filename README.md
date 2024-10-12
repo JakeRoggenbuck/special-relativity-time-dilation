@@ -21,4 +21,10 @@ const C: f64 = 299_792_458.0;
 
 ## Equation
 Here is the equation for time dilation from velocity.
+
 ![image](https://github.com/user-attachments/assets/337346ae-f397-42f6-9155-cd2db4ffdc89)
+
+## See Also
+I also wrote this code in my language called [Component](https://github.com/JakeRoggenbuck/component) seen below:
+
+![image](https://github.com/user-attachments/assets/2ce06d9c-aa72-4dd0-b108-765d340175fd)
