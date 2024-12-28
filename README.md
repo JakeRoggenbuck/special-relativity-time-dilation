@@ -1,5 +1,5 @@
 # special-relativity-time-dilation
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/JakeRoggenbuck?tab=repositories&q=&type=&language=rust&sort=stargazers)
+[![Rust](https://img.shields.io/badge/Rust-1A5D8A?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/JakeRoggenbuck?tab=repositories&q=&type=&language=rust&sort=stargazers)
 [![Rust](https://img.shields.io/github/actions/workflow/status/jakeroggenbuck/special-relativity-time-dilation/rust.yml?branch=main&style=for-the-badge)](https://github.com/JakeRoggenbuck/special-relativity-time-dilation/actions)
 
 
